@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ojeanrodriguesdev
-- 👀 I’m interested in Front-End, HTML, CSS, JS and Node
-- 🌱 I’m currently learning HTML, CSS, JS and Node
+- 👋 Hi, I’m @ojeanrodriguesdev.
+- 👀 I’m interested in Front-End.
+- 🌱 I’m currently learning React, Next and TailWindCSS
 - 😄 Pronouns: He/Him
 
 <!---
