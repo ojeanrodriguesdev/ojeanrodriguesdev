@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ojeanrodriguesdev.
-- 👀 I’m interested in Front-End.
+- 👀 I’m interested in Front-End and Back-End.
 - 🌱 I’m currently learning React, Next and TailWindCSS
 - 😄 Pronouns: He/Him
 
