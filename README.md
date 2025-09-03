@@ -41,11 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ojeanrodriguesdev&show_icons=true&theme=tokyonight&hide_border=true" alt="ojeanrodriguesdev GitHub stats" />
 </p>
 
-<!-- GitHub Streak -->
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ojeanrodriguesdev&theme=tokyonight&hide_border=true" alt="ojeanrodriguesdev streak" />
-</p>
-
 <!-- GitHub Profile Trophy (Opcional) -->
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=ojeanrodriguesdev&theme=tokyonight&no-frame=true" />
