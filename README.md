@@ -2,14 +2,8 @@
 
 🔧 Front-End Developer | 🎯 Focused on building scalable web solutions  
 🚀 Currently building my portfolio and my startup  
-📚 Learning: JavaScript, TypeScript, React, Next.js, TailwindCSS, Node.js  
+📚 Main Stack: JavaScript, TypeScript, React, Next.js, TailwindCSS, Node.js  
 💬 Ask me about Web Development and Front-End best practices
-
----
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ojeandev)
 
 ---
 
